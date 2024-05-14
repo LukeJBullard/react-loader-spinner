@@ -8,7 +8,7 @@
 
 <div style="text-align:center;">
 <p>
-  <img src="/logo/logo.png" alt="title"/>
+  React Loader Spinner
 </p>
 </div>
 
